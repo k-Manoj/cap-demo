@@ -18,6 +18,10 @@ h3{
 }
 body {font-family: Arial, Helvetica, sans-serif;}
 * {box-sizing: border-box;}
+	{
+    background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.wedevs.com%2Fuploads%2F2018%2F12%2FUser-Registration-WordPress-blog-feature-image.png&imgrefurl=https%3A%2F%2Fwedevs.com%2Fblog%2F151522%2Fwordpress-user-registration-to-register-user-better%2F&tbnid=TIVX6S2xcQlG1M&vet=12ahUKEwjh-9vZvun5AhV1k9gFHQlwDdMQMygAegUIARDJAQ..i&docid=wu1hsAM66LtJ3M&w=1622&h=886&q=user%20registration%20images&ved=2ahUKEwjh-9vZvun5AhV1k9gFHQlwDdMQMygAegUIARDJAQ');
+    background-attachment: fixed;
+}
 
 </style> 
 </head>
