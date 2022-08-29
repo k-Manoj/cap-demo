@@ -16,7 +16,7 @@ h3{
   text-decoration: underline
 }
 body {font-family: Arial, Helvetica, sans-serif;
-    background-image: url(" https://www.google.com/imgres?imgurl=https%3A%2F%2Fpupadmissions.ac.in%2Fimages%2Fnewuserregistration.png&imgrefurl=https%3A%2F%2Fpupadmissions.ac.in%2F&tbnid=J8_pGnUtkuooEM&vet=10CNMBEDMowwFqFwoTCIC9n8mr6_kCFQAAAAAdAAAAABAC..i&docid=FeM-NVgf9meErM&w=240&h=240&itg=1&q=user%20registration%20images&ved=0CNMBEDMowwFqFwoTCIC9n8mr6_kCFQAAAAAdAAAAABAC");
+    background-image: url(" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1c7tkqu7BvdSlWdOulMuZ4V2yXV6K6db7gQ&usqp=CAU");
     }
 * {box-sizing: border-box;}
 
