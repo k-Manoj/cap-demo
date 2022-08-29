@@ -8,7 +8,10 @@
 <style>
 body {font-family: Arial, Helvetica, sans-serif;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1c7tkqu7BvdSlWdOulMuZ4V2yXV6K6db7gQ&usqp=CAU");
-    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    
 }
 * {box-sizing: border-box;}
 
